@@ -25,16 +25,16 @@ This is a **hands-on and theory-integrated workshop** with a focus on **practica
 | **1:00 – 1:05 PM** | Intro to Panel | Dr. Dharshana Kasthurirathna |  |
 | **1:05 – 1:15 PM** | Introduction to the Session | Mr. Asiri Gawesha | [📄 Slides - 01_Intro_to_TinyML.pdf](01_Intro_to_TinyML.pdf) |
 | **1:15 – 2:00 PM** | Session 01 - Wet TinyML | Dr. Samitha | [📄 Slides](01_Intro_to_TinyML/slides/) |
-| **2:00 – 3:15 PM** |Session 02 - Model Compression Techniques | Dr. Dinuka Sahabandu| [📄 Slides](02_Model_Compression_slides/) |
+| **2:00 – 3:30 PM** |Session 02 - Model Compression Techniques | Dr. Dinuka Sahabandu| [📄 Slides](02_Model_Compression_slides/) |
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)Model_Pruning_(with_Quantization)_Student](https://colab.research.google.com/drive/1UMizpplQuarZJ0bvShieTHLQntN7lIrB?usp=sharing)|
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)Knowledge_Distillation_(with_Pruning_and_Quantization)_Student](https://colab.research.google.com/drive/187Hk72vvGGGPz1qfmXwtJAd9bM-qflX9?usp=sharing)|
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)Quantization_Techniques_(Integer,_Dynamic_Range,_and_Float_16)_Student](https://colab.research.google.com/drive/1WILvGD6VBysdsGTULz3eIpv6lwOQkgBb?usp=sharing)|
-| **3:15 – 3:30 PM** | ☕ Break | — | — |
-| **3:30 – 4:10 PM** |Session 03 - Model Deployment | Mr. Asiri Gawesha | [📄 Slides- 03_Coding sessions.pdf](03_Coding_session.pdf) |
+| **3:30 – 3:40 PM** | ☕ Break | — | — |
+| **3:40 – 4:40 PM** |Session 03 - Model Deployment | Mr. Asiri Gawesha | [📄 Slides- 03_Coding sessions.pdf](03_Coding_session.pdf) |
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)Headpose_pruning_quantization](https://colab.research.google.com/drive/10ASWBRY6BBQeoAljPHhPU5IjfqFX4pUI?usp=sharing)|
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)PlantLeaves_mirco](https://colab.research.google.com/drive/1tYySJEYomYnqsYnt4F30ZaZTin4hB1n4?usp=sharing)|
 |||| [Arduino Code - "tinyPlant" Directory](tinyPLant)|
-| **4:10 – 4:40 PM** | Session 04 - Architectural Improvements | Mr. Sanka Mohottala | [📄 Slides](04_Architectural_Improvements/slides/) |
+| **4:40 – 4:10 PM** | Session 04 - Architectural Improvements | Mr. Sanka Mohottala | [📄 Slides](04_Architectural_Improvements/slides/) |
 | **5:10 – 5:30 PM** | Session 05 - Energy-Efficient Architectures | Dr. Mahima Weerasinghe| [📄 Slides](06_Energy_Efficient_Architectures/slides/) |
 
 <!-- ---
