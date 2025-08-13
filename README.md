@@ -2,7 +2,7 @@
 **Workshop at MERCon 2025 – Moratuwa Engineering Research Conference**  
 
 <div style="background-color: black; padding: 20px; text-align: center; border-radius: 10px;">
-  <img src="images/logo2025.png" alt="MERCon Logo" style="max-width: 600px;">
+  <img src="images/logo2025.png" alt="MERCon Logo" style="max-width: 300px;">
 </div>
 
 ---
