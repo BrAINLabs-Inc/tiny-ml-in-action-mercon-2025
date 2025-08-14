@@ -35,7 +35,9 @@ This is a **hands-on and theory-integrated workshop** with a focus on **practica
 ||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)PlantLeaves_mirco](https://colab.research.google.com/drive/1tYySJEYomYnqsYnt4F30ZaZTin4hB1n4?usp=sharing)|
 |||| [Arduino Code - "tinyPlant" Directory](tinyPLant)|
 | **4:40 – 4:10 PM** | Session 04 - Architectural Improvements | Mr. Sanka Mohottala | [📄 Slides](04_Architectural_Improvements/slides/) |
-| **5:10 – 5:30 PM** | Session 05 - Energy-Efficient Architectures | Dr. Mahima Weerasinghe| [📄 Slides](06_Energy_Efficient_Architectures/slides/) |
+| **5:10 – 5:30 PM** | Session 05 - Energy-Efficient Architectures | Dr. Mahima Weerasinghe| [📄 Slides - 05_A_Revolution_in_Efficient_AI_EngineerinSNNs_MERCON_2025.pdf](05_A_Revolution_in_Efficient_AI_EngineerinSNNs_MERCON_2025.pdf) |
+||||[📄 Synopsis](05_MERCON_SNN_Synopsis)|
+||||[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)MerconSNN](https://colab.research.google.com/drive/1LIgIvrEgE3SpvtI4nblCk7K1mjYwsa1O?usp=sharing)|
 
 <!-- ---
 
